@@ -1,15 +1,15 @@
-# Verilog Learning Journey 🚀
-Started: Feb 20, 2026
+### Day 2
+- Learned basic Verilog syntax
+- Learned how to compile with iverilog
+- Learned how to view waveforms with GTKWave
 
-I am learning Verilog from scratch using Kali Linux. This repository contains my daily practice codes and circuit designs.
+## Day 1 Projects
+- `dff.v` — D Flip Flop module
+- `dff_tb.v` — Testbench for D Flip Flop
 
-## Goals
-- [ ] Understand Logic Gates
-- [ ] Build Combinational Circuits (Adders, MUX)
-- [ ] Build Sequential Circuits (Flip-flops, Counters)
-- [ ] Learn Testbench writing
+## Tools Used
+- OS: Kali Linux
+- Compiler: iverilog
+- Waveform Viewer: GTKWave
 
-## Daily Log
-### Day 1: Setup and Basic Gates
-- Configured Git on Kali.
-- Created my first Verilog module: **AND Gate**.
+```
