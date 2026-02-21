@@ -10,9 +10,10 @@ Goals
  Learn Testbench writing
 Daily Log
 
-Day 1: Setup and Basic Gates
+### Day 1: Setup and Basic Gates
 Configured Git on Kali.
-Created my first Verilog module: AND Gate.### Day 2
+Created my first Verilog module: AND Gate.
+### Day 2
 - Learned basic Verilog syntax
 - Learned how to compile with iverilog
 - Learned how to view waveforms with GTKWave
